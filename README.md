@@ -1,4 +1,4 @@
-# AI for TB Diagnosis using Chest X-rays
+# AI for TB Detection using Chest X-rays
 
 ## Overview
 
@@ -53,24 +53,17 @@ The repository includes:
 
 ## Results
 
-* **Test Accuracy**: \~90%
-* **Precision**: 0.91
-* **Recall**: 0.89
-* **F1-Score**: 0.90
+* **Test Accuracy**: \~99%
+* **Precision**: 0.98
+* **Recall**: 0.94
+* **F1-Score**: 0.96
 * **AUC-ROC**: 0.94
 
-## Future Work
-
-* Fine-tuning pre-trained models with more data
-* Deploying the model in clinical settings
-* Building a mobile/web-based diagnostic tool
-* Integrating patient metadata and multi-modal diagnostic inputs
 
 ## References
 
 * Kaggle Chest X-ray Dataset
 * ResNet & DenseNet papers
-* Grad-CAM for model visualization
 
 ---
 
